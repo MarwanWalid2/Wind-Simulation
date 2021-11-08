@@ -10,7 +10,9 @@ amplitude, and the minimum and maximum microburst duration values. Here is the
 structure of the configuration file:
 
 1- Average Wind Speed, gust value, simulation duration, step size
+
 2- Storm probability (Pstorm), min and max storm amplitude, and min and max storm duration 
+
 3 -Microburst probability (Pburst), min and max microburst amplitude, min and max microburst 
 duration 
 
