@@ -1,5 +1,5 @@
                         ///* Marwan AbdElhameed *///
-///* Assignment 2: Mechanical Engineering Case Study – Flight Simulator Wind Speed///
+///* Mechanical Engineering Case Study â€“ Flight Simulator Wind Speed///
 
 #include <iostream>
 #include <cmath>
